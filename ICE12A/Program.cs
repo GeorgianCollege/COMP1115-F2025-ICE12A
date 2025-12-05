@@ -13,13 +13,7 @@ namespace ICE12A
             About
         }
 
-        public enum ToastType
-        {
-            Success,
-            Danger,
-            Warning,
-            Info
-        }
+        
 
         // Create a struct to hold character data
         public struct CharacterData
