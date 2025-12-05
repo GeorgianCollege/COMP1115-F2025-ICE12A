@@ -254,7 +254,6 @@ namespace ICE12A
                     ComboBox_Career.SelectedItem = Settings.Default.Career;
                 }
 
-
                 TextBox_AGL.Text = Settings.Default.AGL;
                 TextBox_STR.Text = Settings.Default.STR;
                 TextBox_VGR.Text = Settings.Default.VGR;
